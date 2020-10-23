@@ -1,0 +1,17 @@
+{
+    "/ comment HTML": {
+    "prefix": "/",
+    "body": ["<!-- $1 -->"],
+    "description": "This is a description."
+},
+    "/ ⬆ comment HTML": {
+    "prefix": "/up",
+    "body": ["<!--⬆ $1 ⬆-->"],
+    "description": "This is another description."
+},
+    "/ ⬇ comment HTML": {
+    "prefix": "/down",
+    "body": ["<!--⬇ $1 ⬇-->"],
+    "description": "This is another else description."
+}
+}

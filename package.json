@@ -1,0 +1,46 @@
+{
+    "name": "ecs",
+    "displayName": "ECS (Easy Comments Snippets)",
+    "description": "This extension allows you to easily add comments to your code using snippets.",
+    "version": "1.0.0",
+    "publisher":"Loïc Étienne",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/NothingHereYet/"
+    },
+    "icon":"icon.png",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/htmlsp.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/csssp.json"
+            }
+        ]
+    }
+}
