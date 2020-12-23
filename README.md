@@ -45,6 +45,8 @@ On the version 1.1, the following languages have been added :
 * JSON
 * XML
 * Markdown
+
+You can now use the "/c" prefix to comment, in case the regular "/" prefix doesn't work fine.
 <br>
 
 ## <b>About me</b>

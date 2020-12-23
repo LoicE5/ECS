@@ -8,4 +8,4 @@ All noticables changes to the extension will be documented here !
 
 ## &nbsp;&nbsp;V 1.1
 
-><font size="2"><ul><li>Languages added</li><li>The PHP, Java, C, C++, C#, Go, JSON, XML, Markdown & Python languages have been added to the extension. You can now use ECS with those.</li></ul></font>
+><font size="2"><ul><li>Languages added</li><li>The PHP, Java, C, C++, C#, Go, JSON, XML, Markdown & Python languages have been added to the extension. You can now use ECS with those.</li><li>You can now use the "/c" prefix to comment, in case the regular "/" prefix doesn't work fine.</li></ul></font>
