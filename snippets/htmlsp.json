@@ -2,16 +2,21 @@
     "/ comment HTML": {
     "prefix": "/",
     "body": ["<!-- $1 -->"],
-    "description": "This is a description."
+    "description": "Regular comment"
 },
     "/ ⬆ comment HTML": {
     "prefix": "/up",
     "body": ["<!--⬆ $1 ⬆-->"],
-    "description": "This is another description."
+    "description": "Comment the code above"
 },
     "/ ⬇ comment HTML": {
     "prefix": "/down",
     "body": ["<!--⬇ $1 ⬇-->"],
-    "description": "This is another else description."
+    "description": "Comment the code below"
+},
+    "/ comment HTML Legacy": {
+        "prefix": "/c",
+        "body": ["<!-- $1 -->"],
+        "description": "Regular comment - Legacy"
 }
 }

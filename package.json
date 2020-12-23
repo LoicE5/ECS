@@ -40,6 +40,46 @@
             {
                 "language": "typescriptreact",
                 "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "java",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "c",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "cpp",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "csharp",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/pythonsp.json"
+            },
+            {
+                "language": "json",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/htmlsp.json"
+            },
+            {
+                "language": "xml",
+                "path": "./snippets/htmlsp.json"
             }
         ]
     }

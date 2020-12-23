@@ -34,9 +34,19 @@ In the same way, if you type <i>(or start typing)</i> <font color="seagreen"><b>
 
 ## <b>Release Notes</b>
 
-This is the very first release of the extension !
+On the version 1.1, the following languages have been added :
+* PHP
+* Java
+* C
+* C++
+* C#
+* Go
+* Python
+* JSON
+* XML
+* Markdown
 <br>
 
 ## <b>About me</b>
 
-<font size="2" color="#3399ff">You can check out ùy work on [GitHub](https://github.com/LoicE5) or find me on [LinkedIn](https://www.linkedin.com/in/loic-etienne/)</font>
+<font size="2">You can check out ùy work on [GitHub](https://github.com/LoicE5) or find me on [LinkedIn](https://www.linkedin.com/in/loic-etienne/)</font>.

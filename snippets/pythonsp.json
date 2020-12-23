@@ -1,22 +1,22 @@
 {
-    "/ comment CSS": {
+    "/ comment Python": {
         "prefix": "/",
-        "body": ["/* $1 */"],
+        "body": ["# $1 "],
         "description": "Regular comment"
     },
-        "/ ⬆ comment CSS": {
+        "/ ⬆ comment Python": {
         "prefix": "/up",
-        "body": ["/*⬆ $1 ⬆*/"],
+        "body": ["#⬆ $1 ⬆"],
         "description": "Comment the code above"
     },
-        "/ ⬇ comment CSS": {
+        "/ ⬇ comment Python": {
         "prefix": "/down",
-        "body": ["/*⬇ $1 ⬇*/"],
+        "body": ["#⬇ $1 ⬇"],
         "description": "Comment the code below"
     },
-    "/ comment CSS Legacy": {
+    "/ comment Python Legacy": {
         "prefix": "/c",
-        "body": ["/* $1 */"],
+        "body": ["# $1 "],
         "description": "Regular comment - Legacy"
     }
 }
