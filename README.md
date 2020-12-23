@@ -39,4 +39,4 @@ This is the very first release of the extension !
 
 ## <b>About me</b>
 
-<font size="2" color="#3399ff">There should be down there a link to my personnal website. Unfortunately, it is still under construction. There also should be some links to my GitHub & LinkedIn profiles pages, but there are both under construction as well. The only thing here that is not under construction is this extension, that you can start to use right now !</font>
+<font size="2" color="#3399ff">You can check out ùy work on [GitHub](https://github.com/LoicE5) or find me on [LinkedIn](https://www.linkedin.com/in/loic-etienne/)</font>
