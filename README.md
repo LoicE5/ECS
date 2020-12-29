@@ -51,4 +51,4 @@ You can now use the "/c" prefix to comment, in case the regular "/" prefix doesn
 
 ## <b>About me</b>
 
-<font size="2">You can check out ùy work on [GitHub](https://github.com/LoicE5) or find me on [LinkedIn](https://www.linkedin.com/in/loic-etienne/)</font>.
+<font size="2">You can check out my work on [GitHub](https://github.com/LoicE5) or find me on [LinkedIn](https://www.linkedin.com/in/loic-etienne/)</font>.

@@ -2,11 +2,11 @@
     "name": "ecs",
     "displayName": "ECS (Easy Comments Snippets)",
     "description": "This extension allows you to easily add comments to your code using snippets.",
-    "version": "1.0.0",
-    "publisher":"Loïc Étienne",
+    "version": "1.1.0",
+    "publisher":"Loïc Etienne",
     "repository": {
         "type":"git",
-        "url":"https://github.com/NothingHereYet/"
+        "url":"https://github.com/LoicE5/ECS/"
     },
     "icon":"icon.png",
     "engines": {
