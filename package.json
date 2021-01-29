@@ -1,0 +1,86 @@
+{
+    "name": "ecs",
+    "displayName": "ECS (Easy Comments Snippets)",
+    "description": "This extension allows you to easily add comments to your code using snippets.",
+    "version": "1.1.0",
+    "publisher":"Loïc Etienne",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/LoicE5/ECS/"
+    },
+    "icon":"icon.png",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/htmlsp.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "java",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "c",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "cpp",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "csharp",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/pythonsp.json"
+            },
+            {
+                "language": "json",
+                "path": "./snippets/csssp.json"
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/htmlsp.json"
+            },
+            {
+                "language": "xml",
+                "path": "./snippets/htmlsp.json"
+            }
+        ]
+    }
+}

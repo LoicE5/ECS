@@ -1,0 +1,22 @@
+{
+    "/ comment CSS": {
+        "prefix": "/",
+        "body": ["/* $1 */"],
+        "description": "Regular comment"
+    },
+        "/ ⬆ comment CSS": {
+        "prefix": "/up",
+        "body": ["/*⬆ $1 ⬆*/"],
+        "description": "Comment the code above"
+    },
+        "/ ⬇ comment CSS": {
+        "prefix": "/down",
+        "body": ["/*⬇ $1 ⬇*/"],
+        "description": "Comment the code below"
+    },
+    "/ comment CSS Legacy": {
+        "prefix": "/c",
+        "body": ["/* $1 */"],
+        "description": "Regular comment - Legacy"
+    }
+}
